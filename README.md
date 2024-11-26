@@ -38,7 +38,7 @@ Admin/Analyst Login:</strong> <a href="http://localhost/osTicket/scp/login.php">
 
 To manage user roles and permissions, please follow the configuration steps below:
 
-- **Configure Roles**: Group permissions for agents by setting up specific roles. Learn more about configuring roles [here](https://docs.osticket.com/en/latest/Admin/Agents/Roles.html).
+- **Configure Roles**: Group permissions for agents by setting up specific roles.
   
 - **Admin Panel**:
   - Go to **Agents** → **Roles** to set up and manage roles.
@@ -104,4 +104,14 @@ To add new agents and assign them to specific departments, follow the steps belo
 <img src="https://i.imgur.com/NRbSLl1.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/Q3Ug4fR.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 
+**Configure Users (Customers)**
+
+To add new users (customers) and manage their details, follow the steps below:
+- Configure Users: Add users to the system to allow them to submit tickets and track progress.
+- Agent Panel:
+  - Switch to the Agent Panel.
+  - Go to Users → Add New to add new users.
+  - Example:
+    - Karen
+<img src="https://i.imgur.com/kh4sdKr.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 
