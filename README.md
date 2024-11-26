@@ -57,13 +57,23 @@ To manage user roles and permissions, please follow the configuration steps belo
 <img src="https://i.imgur.com/XcKyHGH.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+**Configure Departments for Ticket Visibility**
 
+To manage ticket visibility and assign agents to specific departments (e.g., Help Desk, SysAdmins, Networking), follow the steps below:
 
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+Configure Departments: Control which agents have access to specific tickets by configuring departments.
+- Admin Panel:
+  - Navigate to Agents → Departments to configure and assign agents to the appropriate departments.
+  - SysAdmins: This department will have access to system administration-related tickets.
+
+<img src="https://i.imgur.com/MnUqHPN.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+
+**Configure Teams for Cross-Department Collaboration**
+
+To set up teams that pull agents from different departments and facilitate collaboration, follow these steps:
+- Configure Teams: Create teams that combine agents from various departments to work on specific issues. 
+- Admin Panel:
+  - Go to Agents → Teams to create and configure teams.
+  - Online Banking: This team can include agents from various departments to handle online banking-related tickets.
+ 
+<img src="https://i.imgur.com/knnDKeO.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
