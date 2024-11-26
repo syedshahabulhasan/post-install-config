@@ -25,25 +25,44 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Configuration Steps</h2>
 
+**Important Notice:**
+
+Please ensure you're logging in on the correct page:
+<p></p><strong>
+Admin/Analyst Login:</strong> <a href="http://localhost/osTicket/scp/login.php">Admin/Analyst Login Page</a>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<strong>End User Login:</strong> <a href="http://localhost/osTicket">End User osTicket Portal</a>
 </p>
+
+**Acknowledge Agent Panel vs Admin Panel**
+
+To manage user roles and permissions, please follow the configuration steps below:
+
+- **Configure Roles**: Group permissions for agents by setting up specific roles. Learn more about configuring roles [here](https://docs.osticket.com/en/latest/Admin/Agents/Roles.html).
+  
+- **Admin Panel**:
+  - Go to **Agents** → **Roles** to set up and manage roles.
+  - **Supreme Admin**: This role grants full administrative privileges.
+
+<p>
+<img src="https://i.imgur.com/ihYnKsn.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://i.imgur.com/Iw5PB1f.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://i.imgur.com/8S6evVC.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://i.imgur.com/XcKyHGH.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+</p>
+
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
