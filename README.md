@@ -77,3 +77,31 @@ To set up teams that pull agents from different departments and facilitate colla
   - Online Banking: This team can include agents from various departments to handle online banking-related tickets.
  
 <img src="https://i.imgur.com/knnDKeO.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+
+**Allow Anyone to Create Tickets**
+
+To control who can create tickets, you can enable or disable the requirement for user registration:
+
+- Allow Anyone to Create Tickets: If you want to allow unregistered users to submit tickets, ensure the setting is configured as follows:
+  - Admin Panel → Settings → User Settings
+  - **UNCHECK**: Unregistered users can create tickets to allow anyone to submit a ticket without registration.
+
+<img src="https://i.imgur.com/uBBQ7AC.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+
+**Configure Agents**
+
+To add new agents and assign them to specific departments, follow the steps below:
+
+- Configure Agents: Add agents (workers) and assign them to appropriate departments based on their role.
+- Admin Panel:
+  - Go to Agents → Add New to create new agents.
+  - Example:
+    - Jane: Assigned to SysAdmins department.
+    - John: Assigned to Support department.
+
+<img src="https://i.imgur.com/H7nQwzx.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/g5zpIIh.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/NRbSLl1.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Q3Ug4fR.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+
+
