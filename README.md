@@ -115,3 +115,33 @@ To add new users (customers) and manage their details, follow the steps below:
     - Karen
 <img src="https://i.imgur.com/kh4sdKr.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 
+**Configure SLA (Service Level Agreements)**
+
+To set up and manage SLAs, follow the steps below:
+- Configure SLA Plans: Define different SLA plans based on severity levels to ensure timely responses.
+- Admin Panel:
+  - Go to Manage → SLA to set up and manage SLA plans.
+  - Example SLA Plans:
+    - Sev-A: Grace Period: 1 hour, Schedule: 24/7
+    - Sev-B: Grace Period: 4 hours, Schedule: 24/7
+    - Sev-C: Grace Period: 8 hours, Schedule: Business Hours
+
+<img src="https://i.imgur.com/pQG6Ncq.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Wvu0Uwa.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+
+**Configure Help Topics (For Ticket Creation)**
+
+To customize the help topics available when users create a ticket, follow these steps:
+
+  - Configure Help Topics: Define categories to help users choose the right type of issue when submitting a ticket. Learn more about configuring help topics here.
+  - Admin Panel:
+    - Go to Manage → Help Topics to create and manage help topics.
+    - Example Help Topics:
+      - Business Critical Outage
+      - Personal Computer Issues
+      - Equipment Request
+      - Password Reset
+      - Other
+     
+<img src="https://i.imgur.com/gKAYMW6.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+
